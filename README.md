@@ -360,7 +360,7 @@ public class GameView extends View implements Runnable {
         gameThread.start();
     }
 }
-
+```
 ---
 
 ## 👨‍💻 Author
