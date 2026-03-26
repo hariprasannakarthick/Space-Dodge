@@ -361,17 +361,13 @@ public class GameView extends View implements Runnable {
     }
 }
 ```
+---
+
+## Author
+
+Hari Prasanna
+B.Tech Robotics Engineering
 
 ---
 
-## 👨‍💻 Author
-
-Made with ❤️ and Java.  
-Feel free to fork, star ⭐, and improve!
-
----
-
-## 📄 License
-```
-MIT License — free to use, modify and distribute.
 ```
